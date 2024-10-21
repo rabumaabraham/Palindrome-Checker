@@ -39,7 +39,7 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
 2. **Navigate into the project directory**:
 
     ```bash
-    cd Palindrome-Checker
+    cd Palindrome Checker
     ```
 
 3. **Open the project**:
